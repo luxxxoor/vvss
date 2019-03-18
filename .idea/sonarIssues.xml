@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$MAVEN_REPOSITORY$/com/licenta/emm/email-managerment-api/0.0.2-SNAPSHOT/email-managerment-api-0.0.2-SNAPSHOT.jar!/com/licenta/emm/Exceptions/EmailAlreadyInUse.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$MAVEN_REPOSITORY$/com/licenta/usm/user-managerment-api/0.0.2-SNAPSHOT/user-managerment-api-0.0.2-SNAPSHOT.jar!/com/licenta/usm/Managerment/IUserManagerment.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ProiectEvaluatorExamen.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/evaluator/controller/AppController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/evaluator/exception/InputValidationFailedException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/evaluator/main/StartApp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/evaluator/model/Intrebare.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/evaluator/model/Statistica.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/evaluator/model/Test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/evaluator/repository/IntrebariRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/evaluator/util/InputValidation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../licenta/EmailManagerment/email-managerment-api/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../licenta/UserManagerment/gradle.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../licenta/UserManagerment/user-managerment-api/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../licenta/UserManagerment/user-managerment-api/src/main/java/com/licenta/usm/Authentification/Constants/UserDataConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../licenta/UserManagerment/user-managerment-api/src/main/java/com/licenta/usm/Authentification/IUserData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../licenta/UserManagerment/user-managerment-api/src/main/java/com/licenta/usm/Entities/LoginUser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../licenta/UserManagerment/user-managerment-app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../licenta/UserManagerment/user-managerment-app/src/main/java/com/licenta/usm/Configuration/ServiceConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../licenta/UserManagerment/user-managerment-app/src/main/java/com/licenta/usm/Rest/UserData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../licenta/UserManagerment/user-managerment-app/src/main/java/com/licenta/usm/Rest/UserManagerment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../licenta/UserManagerment/user-managerment-app/src/main/java/com/licenta/usm/Service/UserDataService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
