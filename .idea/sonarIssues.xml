@@ -58,6 +58,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/evaluator/controller/TestIntrebare.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../licenta/EmailManagerment/email-managerment-api/build.gradle">
           <value>
             <set />
@@ -84,6 +89,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../../licenta/UserManagerment/user-managerment-api/src/main/java/com/licenta/usm/Entities/LoginUser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../licenta/UserManagerment/user-managerment-api/src/main/java/com/licenta/usm/Managerment/IUserManagerment.java">
           <value>
             <set />
           </value>
