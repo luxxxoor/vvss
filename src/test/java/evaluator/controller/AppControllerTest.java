@@ -1,6 +1,6 @@
 package evaluator.controller;
 
-import evaluator.exception.NotAbleToCreateTestException;
+import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Rule;
 import org.junit.Test;
@@ -27,9 +27,11 @@ public class AppControllerTest {
         appController.loadIntrebariFromFile(fisier4);
         try {
             appController.createNewTest();
-        } catch (NotAbleToCreateTestException e) {
-            System.out.println(e.getMessage());
+            Assert.fail("Operation with invalid inputs should not pass");
+        } catch (Exception ignored) {
         }
+
+        Assert.assertEquals("Invalid inpud data. Expected 4 \"intrebari\"", appController.getIntrebari().size(), 4);
     }
 
     @Test
@@ -38,8 +40,15 @@ public class AppControllerTest {
         appController.loadIntrebariFromFile(fisier4Domenii);
         try {
             appController.createNewTest();
-        } catch (NotAbleToCreateTestException e) {
-            System.out.println(e.getMessage());
+            Assert.fail("Operation with invalid inputs should not pass");
+        } catch (Exception ignored) {
+        }
+
+        Assert.assertEquals("Expected 5 \"intrebari\"", appController.getIntrebari().size(), 5);
+        try {
+            Assert.assertEquals("Expected 4 \"domenii\"", appController.getStatistica().getIntrebariDomenii().size(), 4);
+        } catch (Exception ignored) {
+            Assert.fail("Invalid. Could not create statistics");
         }
     }
 
@@ -49,8 +58,17 @@ public class AppControllerTest {
         appController.loadIntrebariFromFile(fisier);
         try {
             appController.createNewTest();
-        } catch (NotAbleToCreateTestException e) {
-            System.out.println(e.getMessage());
+        } catch (Exception e) {
+            Assert.fail("Operation with valid inputs should always pass");
+        }
+
+        Assert.assertEquals("Expected 5 \"intrebari\"", appController.getIntrebari().size(), 5);
+        try {
+            Assert.assertEquals("Expected 5 \"domenii\"", appController.getStatistica().getIntrebariDomenii().size(), 5);
+        } catch (Exception ignored) {
+            Assert.fail("Invalid. Could not create statistics");
         }
     }
+
+    @Test
 }
