@@ -13,18 +13,18 @@ import evaluator.exception.DuplicateIntrebareException;
 public class IntrebariRepository {
 
 	private List<Intrebare> intrebari;
-	
+
 	public IntrebariRepository() {
 		setIntrebari(new LinkedList<Intrebare>());
 	}
-	
+
 	public void addIntrebare(Intrebare i, String file) throws DuplicateIntrebareException {
 		if(exists(i))
 			throw new DuplicateIntrebareException("Intrebarea deja exista!");
 		intrebari.add(i);
 		writeIntrebariInFile(i,file);
 	}
-	
+
 	public boolean exists(Intrebare i){
 		for(Intrebare intrebare : intrebari)
 			if (intrebare.equals(i))
@@ -36,19 +36,19 @@ public class IntrebariRepository {
 		Random random = new Random();
 		return intrebari.get(random.nextInt(intrebari.size()));
 	}
-	
+
 	public int getNumberOfDistinctDomains(){
 		return getDistinctDomains().size();
-		
+
 	}
-	
+
 	public Set<String> getDistinctDomains(){
 		Set<String> domains = new TreeSet<String>();
 		for(Intrebare intrebre : intrebari)
 			domains.add(intrebre.getDomeniu());
 		return domains;
 	}
-	
+
 	public List<Intrebare> getIntrebariByDomain(String domain){
 		List<Intrebare> intrebariByDomain = new LinkedList<Intrebare>();
 		for(Intrebare intrebare : intrebari){
@@ -59,19 +59,19 @@ public class IntrebariRepository {
 
 		return intrebariByDomain;
 	}
-	
+
 	public int getNumberOfIntrebariByDomain(String domain){
 		return getIntrebariByDomain(domain).size();
 	}
-	
+
 	public List<Intrebare> loadIntrebariFromFile(String f){
-		
+
 		List<Intrebare> intrebari = new LinkedList<Intrebare>();
-		BufferedReader br = null; 
+		BufferedReader br = null;
 		String line = null;
 		List<String> intrebareAux;
 		Intrebare intrebare;
-		
+
 		try{
 			br = new BufferedReader(new FileReader(f));
 			line = br.readLine();
@@ -91,7 +91,7 @@ public class IntrebariRepository {
 				intrebari.add(intrebare);
 				line = br.readLine();
 			}
-		
+
 		}
 		catch (IOException e) {
 			System.out.println("Nu se poate face crearea!");
@@ -103,7 +103,7 @@ public class IntrebariRepository {
 //				System.out.println("Nu merge");
 //			}
 //		}
-		
+
 		return intrebari;
 	}
 

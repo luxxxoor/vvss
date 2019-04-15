@@ -3,12 +3,37 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$MAVEN_REPOSITORY$/com/licenta/emm/email-managerment-api/0.0.2-SNAPSHOT/email-managerment-api-0.0.2-SNAPSHOT.jar!/com/licenta/emm/Exceptions/EmailAlreadyInUse.class">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$MAVEN_REPOSITORY$/com/licenta/usm/user-managerment-api/0.0.2-SNAPSHOT/user-managerment-api-0.0.2-SNAPSHOT.jar!/com/licenta/usm/Managerment/IUserManagerment.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Laborator-1/Laborator 1/tlir2204/src/main/java/tlir2204MV/intrebari.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Lucesco/Laborator/src/main/java/controllers/MainWindowController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Lucesco/Laborator/src/main/java/services/Lab2Service.java">
           <value>
             <set />
           </value>
@@ -24,6 +49,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/evaluator/exception/InputValidationFailedException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/evaluator/intrebari.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/evaluator/intrebari4domenii.txt">
           <value>
             <set />
           </value>
@@ -58,7 +93,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/evaluator/controller/AppControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/test/java/evaluator/controller/TestIntrebare.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../PrelucrareaImaginilor/PrelucrareaImaginilor/src/main/java/controllers/MainWindowController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../PrelucrareaImaginilor/PrelucrareaImaginilor/src/main/java/services/Lab2Service.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../PrelucrareaImaginilor/PrelucrareaImaginilor/src/main/resources/fxmls/mainWindow.fxml">
           <value>
             <set />
           </value>
