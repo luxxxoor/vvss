@@ -1,0 +1,29 @@
+
+Enunt 1?
+1) Varianta 1
+2) Varianta 2
+3) Varianta 3
+1
+Mate
+##
+Enunt 2?
+1) Varianta 1
+2) Varianta 2
+3) Varianta 3
+1
+Romana
+##
+Enunt 3?
+1) Varianta 1
+2) Varianta 2
+3) Varianta 3
+1
+Info
+##
+Enunt 4?
+1) Varianta 1
+2) Varianta 2
+3) Varianta 3
+1
+Biologie
+##
