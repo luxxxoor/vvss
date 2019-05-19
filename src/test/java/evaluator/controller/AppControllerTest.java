@@ -69,6 +69,4 @@ public class AppControllerTest {
             Assert.fail("Invalid. Could not create statistics");
         }
     }
-
-    @Test
 }

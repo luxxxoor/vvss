@@ -33,7 +33,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/Downloads/Lucesco/Laborator/src/main/java/converters/ImageConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/Downloads/Lucesco/Laborator/src/main/java/services/Lab2Service.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Lucesco/Laborator/src/main/java/services/Lab3Service.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Lucesco/Laborator/src/main/resources/fxmls/mainWindow.fxml">
           <value>
             <set />
           </value>
@@ -108,7 +123,32 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../PrelucrareaImaginilor/PrelucrareaImaginilor/src/main/java/converters/ImageConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../PrelucrareaImaginilor/PrelucrareaImaginilor/src/main/java/domain/GreyscaleImage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../PrelucrareaImaginilor/PrelucrareaImaginilor/src/main/java/services/Lab1Service.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../PrelucrareaImaginilor/PrelucrareaImaginilor/src/main/java/services/Lab2Service.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../PrelucrareaImaginilor/PrelucrareaImaginilor/src/main/java/services/Lab3Service.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../PrelucrareaImaginilor/PrelucrareaImaginilor/src/main/java/services/Lab4Service.java">
           <value>
             <set />
           </value>
