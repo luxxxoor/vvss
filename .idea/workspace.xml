@@ -34,8 +34,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/evaluator/controller/TestIntrebare.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="41" column="74" lean-forward="true" selection-start-line="35" selection-start-column="33" selection-end-line="41" selection-end-column="74" />
+            <state relative-caret-position="-85">
+              <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="142" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -44,10 +44,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/evaluator/controller/AppControllerTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/evaluator/controller/IntegrationTest_TopDown.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+            <state relative-caret-position="289">
+              <caret line="56" column="47" selection-start-line="56" selection-start-column="47" selection-end-line="56" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -56,35 +56,49 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/evaluator/intrebari.txt">
+        <entry file="file://$PROJECT_DIR$/src/test/java/evaluator/controller/IntegrationTest_BigBang.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-96">
-              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            <state relative-caret-position="238">
+              <caret line="70" column="143" lean-forward="true" selection-start-line="66" selection-start-column="8" selection-end-line="70" selection-end-column="143" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/intrebari4.txt">
+        <entry file="file://$PROJECT_DIR$/src/main/java/evaluator/model/Intrebare.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/intrebari.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-317" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/intrebari4domenii.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="34" column="2" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
+            <state relative-caret-position="262">
+              <caret line="91" column="1" lean-forward="true" selection-start-line="91" selection-start-column="1" selection-end-line="91" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1016#1017#0" expanded="true" />
+                <element signature="e#1035#1036#0" expanded="true" />
+                <element signature="e#1073#1074#0" expanded="true" />
+                <element signature="e#1098#1099#0" expanded="true" />
+                <element signature="e#1130#1131#0" expanded="true" />
+                <element signature="e#1153#1154#0" expanded="true" />
+                <element signature="e#1199#1200#0" expanded="true" />
+                <element signature="e#1232#1233#0" expanded="true" />
+                <element signature="e#1264#1265#0" expanded="true" />
+                <element signature="e#1287#1288#0" expanded="true" />
+                <element signature="e#1333#1334#0" expanded="true" />
+                <element signature="e#1366#1367#0" expanded="true" />
+                <element signature="e#1399#1400#0" expanded="true" />
+                <element signature="e#1422#1423#0" expanded="true" />
+                <element signature="e#1469#1470#0" expanded="true" />
+                <element signature="e#1502#1503#0" expanded="true" />
+                <element signature="e#1541#1542#0" expanded="true" />
+                <element signature="e#1570#1571#0" expanded="true" />
+                <element signature="e#1628#1629#0" expanded="true" />
+                <element signature="e#1673#1674#0" expanded="true" />
+                <element signature="e#1703#1704#0" expanded="true" />
+                <element signature="e#1724#1725#0" expanded="true" />
+                <element signature="e#1766#1767#0" expanded="true" />
+                <element signature="e#1795#1796#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -92,11 +106,62 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/evaluator/controller/AppController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="32" column="29" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="29" />
+            <state relative-caret-position="125">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1288#1299#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/intrebari4domenii.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" column="2" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/evaluator/repository/IntrebariRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="122" column="50" lean-forward="true" selection-start-line="122" selection-start-column="50" selection-end-line="122" selection-end-column="50" />
+              <folding>
+                <element signature="e#369#370#0" expanded="true" />
+                <element signature="e#417#418#0" expanded="true" />
+                <element signature="e#1088#1096#0" expanded="true" />
+                <element signature="e#1312#1323#0" expanded="true" />
+                <element signature="e#1548#1549#0" expanded="true" />
+                <element signature="e#1597#1598#0" expanded="true" />
+                <element signature="e#1702#1713#0" expanded="true" />
+                <element signature="e#2724#2725#0" expanded="true" />
+                <element signature="e#2747#2748#0" expanded="true" />
+                <element signature="e#2803#2804#0" expanded="true" />
+                <element signature="e#2836#2837#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/intrebari.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/intrebari4.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="2" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -114,6 +179,7 @@
     <findStrings>
       <find>li</find>
       <find>tlir2204MV</find>
+      <find>fisierEmpty</find>
     </findStrings>
     <replaceStrings>
       <replace>evaluator</replace>
@@ -135,8 +201,6 @@
         <option value="$PROJECT_DIR$/src/main/java/evaluator/model/Statistica.java" />
         <option value="$PROJECT_DIR$/src/main/java/evaluator/model/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/evaluator/main/StartApp.java" />
-        <option value="$PROJECT_DIR$/src/main/java/evaluator/controller/AppController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/evaluator/repository/IntrebariRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/evaluator/util/InputValidation.java" />
         <option value="$PROJECT_DIR$/src/main/java/evaluator/intrebari4domenii.txt" />
         <option value="$PROJECT_DIR$/src/main/java/evaluator/intrebari.txt" />
@@ -144,6 +208,14 @@
         <option value="$PROJECT_DIR$/intrebari.txt" />
         <option value="$PROJECT_DIR$/intrebari4.txt" />
         <option value="$PROJECT_DIR$/src/test/java/evaluator/controller/AppControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/evaluator/controller/AppControllerTestF03.java" />
+        <option value="$PROJECT_DIR$/src/test/java/evaluator/controller/F03_ShowStatistics.java" />
+        <option value="$PROJECT_DIR$/src/test/java/evaluator/controller/TestStatistici.java" />
+        <option value="$PROJECT_DIR$/src/main/java/evaluator/controller/AppController.java" />
+        <option value="$PROJECT_DIR$/test.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/evaluator/repository/IntrebariRepository.java" />
+        <option value="$PROJECT_DIR$/src/test/java/evaluator/controller/IntegrationTest_BigBang.java" />
+        <option value="$PROJECT_DIR$/src/test/java/evaluator/controller/IntegrationTest_TopDown.java" />
       </list>
     </option>
   </component>
@@ -155,8 +227,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="950" />
-    <option name="width" value="980" />
+    <option name="x" value="-10" />
+    <option name="width" value="780" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -288,8 +360,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558293482478" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Laborator-1/Laborator 1/tlir2204/New folder/vair2213/pom.xml" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558350229198" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Lab5/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
@@ -304,6 +376,7 @@
       <recent name="evaluator.controller" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Work\5-ProiectEvaluatorExamen\5-ProiectEvaluatorExamen\ProiectEvaluatorExamen\src\test\java\evaluator\controller" />
       <recent name="C:\Work\5-ProiectEvaluatorExamen\5-ProiectEvaluatorExamen\ProiectEvaluatorExamen\src\main\java\evaluator" />
     </key>
   </component>
@@ -345,7 +418,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IntegrationTest_BigBang" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProiectEvaluatorExamen" />
       <extension name="coverage">
         <pattern>
@@ -355,14 +428,14 @@
       </extension>
       <extension name="recording" autostart="true" />
       <option name="PACKAGE_NAME" value="evaluator.controller" />
-      <option name="MAIN_CLASS_NAME" value="evaluator.controller.AppControllerTest" />
+      <option name="MAIN_CLASS_NAME" value="evaluator.controller.IntegrationTest_BigBang" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppControllerTest.creeazaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IntegrationTest_BigBang.integrationTest_BigBang" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProiectEvaluatorExamen" />
       <extension name="coverage">
         <pattern>
@@ -372,15 +445,15 @@
       </extension>
       <extension name="recording" autostart="true" />
       <option name="PACKAGE_NAME" value="evaluator.controller" />
-      <option name="MAIN_CLASS_NAME" value="evaluator.controller.AppControllerTest" />
-      <option name="METHOD_NAME" value="creeazaTest" />
+      <option name="MAIN_CLASS_NAME" value="evaluator.controller.IntegrationTest_BigBang" />
+      <option name="METHOD_NAME" value="integrationTest_BigBang" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppControllerTest.verificaNrIntrebari" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IntegrationTest_BigBang.unitTest_F02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ProiectEvaluatorExamen" />
       <extension name="coverage">
         <pattern>
@@ -390,26 +463,9 @@
       </extension>
       <extension name="recording" autostart="true" />
       <option name="PACKAGE_NAME" value="evaluator.controller" />
-      <option name="MAIN_CLASS_NAME" value="evaluator.controller.AppControllerTest" />
-      <option name="METHOD_NAME" value="verificaNrIntrebari" />
+      <option name="MAIN_CLASS_NAME" value="evaluator.controller.IntegrationTest_BigBang" />
+      <option name="METHOD_NAME" value="unitTest_F02" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestIntrebare" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ProiectEvaluatorExamen" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="evaluator.controller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <extension name="recording" autostart="true" />
-      <option name="PACKAGE_NAME" value="evaluator.controller" />
-      <option name="MAIN_CLASS_NAME" value="evaluator.controller.TestIntrebare" />
-      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -419,6 +475,22 @@
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <extension name="recording" autostart="true" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="evaluator.controller in ProiectEvaluatorExamen" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProiectEvaluatorExamen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="evaluator.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="recording" autostart="true" />
+      <option name="PACKAGE_NAME" value="evaluator.controller" />
+      <option name="TEST_OBJECT" value="package" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -445,19 +517,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.AppControllerTest.creeazaTest" />
-      <item itemvalue="JUnit.AppControllerTest.verificaNrIntrebari" />
-      <item itemvalue="JUnit.AppControllerTest" />
       <item itemvalue="JUnit.All in ProiectEvaluatorExamen" />
-      <item itemvalue="JUnit.TestIntrebare" />
+      <item itemvalue="JUnit.IntegrationTest_BigBang" />
+      <item itemvalue="JUnit.evaluator.controller in ProiectEvaluatorExamen" />
+      <item itemvalue="JUnit.IntegrationTest_BigBang.unitTest_F02" />
+      <item itemvalue="JUnit.IntegrationTest_BigBang.integrationTest_BigBang" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.All in ProiectEvaluatorExamen" />
-        <item itemvalue="JUnit.AppControllerTest" />
-        <item itemvalue="JUnit.TestIntrebare" />
-        <item itemvalue="JUnit.AppControllerTest.verificaNrIntrebari" />
-        <item itemvalue="JUnit.AppControllerTest.creeazaTest" />
+        <item itemvalue="JUnit.IntegrationTest_BigBang.integrationTest_BigBang" />
+        <item itemvalue="JUnit.IntegrationTest_BigBang.unitTest_F02" />
+        <item itemvalue="JUnit.IntegrationTest_BigBang" />
+        <item itemvalue="JUnit.evaluator.controller in ProiectEvaluatorExamen" />
       </list>
     </recent_temporary>
   </component>
@@ -482,45 +554,44 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AppControllerTest - 2019.04.15 at 14h 59m 24s.xml">
-      <configuration name="AppControllerTest" configurationId="JUnit" />
+    <history-entry file="IntegrationTest_BigBang_integrationTest_BigBang - 2019.05.19 at 22h 52m 39s.xml">
+      <configuration name="IntegrationTest_BigBang.integrationTest_BigBang" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_ProiectEvaluatorExamen - 2019.05.19 at 21h 40m 22s.xml">
+    <history-entry file="IntegrationTest_BigBang_integrationTest_BigBang - 2019.05.19 at 22h 52m 43s.xml">
+      <configuration name="IntegrationTest_BigBang.integrationTest_BigBang" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IntegrationTest_BigBang_integrationTest_BigBang - 2019.05.19 at 22h 55m 13s.xml">
+      <configuration name="IntegrationTest_BigBang.integrationTest_BigBang" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IntegrationTest_BigBang_integrationTest_BigBang - 2019.05.19 at 22h 55m 18s.xml">
+      <configuration name="IntegrationTest_BigBang.integrationTest_BigBang" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IntegrationTest_BigBang_integrationTest_BigBang - 2019.05.19 at 22h 56m 19s.xml">
+      <configuration name="IntegrationTest_BigBang.integrationTest_BigBang" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IntegrationTest_BigBang_integrationTest_BigBang - 2019.05.19 at 22h 57m 44s.xml">
+      <configuration name="IntegrationTest_BigBang.integrationTest_BigBang" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="IntegrationTest_BigBang_integrationTest_BigBang - 2019.05.19 at 22h 59m 06s.xml">
+      <configuration name="IntegrationTest_BigBang.integrationTest_BigBang" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_ProiectEvaluatorExamen - 2019.05.19 at 22h 59m 51s.xml">
       <configuration name="All in ProiectEvaluatorExamen" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_ProiectEvaluatorExamen - 2019.05.19 at 21h 43m 47s.xml">
+    <history-entry file="All_in_ProiectEvaluatorExamen - 2019.05.19 at 23h 04m 36s.xml">
       <configuration name="All in ProiectEvaluatorExamen" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AppControllerTest - 2019.05.19 at 21h 50m 30s.xml">
-      <configuration name="AppControllerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestIntrebare - 2019.05.19 at 22h 04m 59s.xml">
-      <configuration name="TestIntrebare" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_ProiectEvaluatorExamen - 2019.05.19 at 22h 06m 17s.xml">
+    <history-entry file="All_in_ProiectEvaluatorExamen - 2019.05.20 at 13h 58m 49s.xml">
       <configuration name="All in ProiectEvaluatorExamen" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_ProiectEvaluatorExamen - 2019.05.19 at 22h 07m 10s.xml">
-      <configuration name="All in ProiectEvaluatorExamen" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AppControllerTest - 2019.05.19 at 22h 13m 59s.xml">
-      <configuration name="AppControllerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AppControllerTest - 2019.05.19 at 22h 14m 14s.xml">
-      <configuration name="AppControllerTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AppControllerTest - 2019.05.19 at 22h 15m 39s.xml">
-      <configuration name="AppControllerTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20343000" />
+    <option name="totallyTimeSpent" value="24198000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15771812" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15771812" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -529,7 +600,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49749058" visible="true" weight="0.42634562" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49749058" weight="0.42634562" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398017" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -557,6 +628,40 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>intrebare</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>intrebare.getVarianta3()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>intrebariRepository.getIntrebari()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>intrebariRepository.getDistinctDomains()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>statistica.getIntrebariDomenii()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>intrebariRepository.getIntrebari().size()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -742,10 +847,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/evaluator/util/InputValidation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProiectEvaluatorExamen.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/evaluator/controller/AppControllerTestF03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/evaluator/controller/TestStatistici.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="37" column="125" selection-start-line="37" selection-start-column="125" selection-end-line="37" selection-end-column="125" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/evaluator/intrebari.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/evaluator/controller/AppControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/evaluator/model/Intrebare.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="51" column="39" selection-start-line="49" selection-start-column="25" selection-end-line="51" selection-end-column="39" />
+        <state relative-caret-position="262">
+          <caret line="91" column="1" lean-forward="true" selection-start-line="91" selection-start-column="1" selection-end-line="91" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1016#1017#0" expanded="true" />
@@ -776,76 +928,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/evaluator/repository/IntrebariRepository.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/evaluator/controller/AppController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1411">
-          <caret line="95" column="31" selection-start-line="95" selection-start-column="31" selection-end-line="95" selection-end-column="31" />
+        <state relative-caret-position="125">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1288#1299#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/evaluator/util/InputValidation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1360">
-          <caret line="80" selection-start-line="80" selection-end-line="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProiectEvaluatorExamen.iml">
+    <entry file="file://$PROJECT_DIR$/test.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/intrebari4domenii.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
+        <state relative-caret-position="578">
           <caret line="34" column="2" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/evaluator/controller/AppController.java">
+    <entry file="file://$PROJECT_DIR$/intrebari.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intrebari4.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="32" column="29" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="476">
+          <caret line="28" column="2" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/evaluator/controller/TestIntrebare.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="41" column="74" lean-forward="true" selection-start-line="35" selection-start-column="33" selection-end-line="41" selection-end-column="74" />
+        <state relative-caret-position="-85">
+          <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="142" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/evaluator/intrebari.txt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/evaluator/repository/IntrebariRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-96">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        <state relative-caret-position="646">
+          <caret line="122" column="50" lean-forward="true" selection-start-line="122" selection-start-column="50" selection-end-line="122" selection-end-column="50" />
+          <folding>
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#1088#1096#0" expanded="true" />
+            <element signature="e#1312#1323#0" expanded="true" />
+            <element signature="e#1548#1549#0" expanded="true" />
+            <element signature="e#1597#1598#0" expanded="true" />
+            <element signature="e#1702#1713#0" expanded="true" />
+            <element signature="e#2724#2725#0" expanded="true" />
+            <element signature="e#2747#2748#0" expanded="true" />
+            <element signature="e#2803#2804#0" expanded="true" />
+            <element signature="e#2836#2837#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/intrebari.txt">
+    <entry file="file://$PROJECT_DIR$/src/test/java/evaluator/controller/IntegrationTest_BigBang.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-317" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intrebari4.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="27" column="2" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
+        <state relative-caret-position="238">
+          <caret line="70" column="143" lean-forward="true" selection-start-line="66" selection-start-column="8" selection-end-line="70" selection-end-column="143" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/evaluator/controller/AppControllerTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/evaluator/controller/IntegrationTest_TopDown.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+        <state relative-caret-position="289">
+          <caret line="56" column="47" selection-start-line="56" selection-start-column="47" selection-end-line="56" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
